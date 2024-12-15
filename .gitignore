@@ -1,2 +1,4 @@
 __pycache__
 *.log
+datashader-examples/
+notebooks/data
